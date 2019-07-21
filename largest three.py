@@ -1,10 +1,10 @@
-l1=int(input())
-l2=int(input())
-l3=int(inpu())
+l1=(input("enter first number"))
+l2=(input("enter second number"))
+l3=(input("enter third number"))
 if(l1>l2) and (l1>l3):
-  print("Largest=l1")
+  Largest=l1
 elif(l2>l1) and (l2>l3):
-  print("Largest=l2")
+  Largest=l2
 else:
-  largest =l3
+  Largest =l3
   print("the Largest number is",Largest)
