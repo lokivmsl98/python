@@ -1,6 +1,6 @@
-l1=(input("enter first number"))
-l2=(input("enter second number"))
-l3=(input("enter third number"))
+l1=(input(""))
+l2=(input(""))
+l3=(input(""))
 if(l1>l2) and (l1>l3):
   Largest=l1
 elif(l2>l1) and (l2>l3):
