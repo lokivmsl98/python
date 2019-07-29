@@ -3,7 +3,7 @@ def reverse(l):
   for i in l:
     str=i+str
   return str
-l="abc"
+l="aabbcc"
 print("input:")
 print(l)
 print("output")
