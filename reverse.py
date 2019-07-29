@@ -4,7 +4,5 @@ def reverse(l):
     str=i+str
   return str
 l="aabbcc"
-print("input:")
-print(l)
-print("output")
+print("")
 print(reverse(l))
