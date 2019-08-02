@@ -1,7 +1,7 @@
-a=int(input())
-b=list(map(int,str(a)))
-v=list(map(lambda x:x**3,b))
-if(sum(v)==a):
+l=int(input())
+m=list(map(int,str(l)))
+n=list(map(lambda x:x**3,m))
+if(sum(n)==l):
   print("yes")
 else:
   print("no")
