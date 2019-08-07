@@ -1,5 +1,5 @@
 l=[]
-n=int(input(":"))
+n=int(input())
 l=list(map(int,input().strip().split()))[:n]
 k=sorted(l)
 le=len(k)
