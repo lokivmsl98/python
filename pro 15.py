@@ -1,7 +1,7 @@
-m=int(input())
-n=list(map(int,input().split()))[0:m]
-n.sort(reverse=True)
+a=int(input())
+b=list(map(int,input().split()))[:a]
+b.sort(reverse=True)
 i=0
-while i<m:
-    print(n[i],end="\n")
+while i<a:
+    print(b[i], end="\n")
     i+=1
