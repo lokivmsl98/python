@@ -23,6 +23,6 @@ while not s.is_empty():
     reversed_text = reversed_text + s.pop()
  
 if text == reversed_text:
-    print('yes')
+    print('YES')
 else:
-    print('no')
+    print('NO')
