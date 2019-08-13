@@ -1,3 +1,3 @@
-a,b=map(str,input().split())
-c=a+b
-print(c)
+concatenate,string=map(str,input().split())
+count=concatenate+string
+print(count)
