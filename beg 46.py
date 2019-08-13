@@ -1,3 +1,3 @@
-a=int(input())
-b=a+1
-print(b)
+loki=int(input())
+next=loki+1
+print(next)
