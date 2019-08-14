@@ -1,6 +1,6 @@
 k=int(input())
 if k==1:
-    print('one')
+    print('One')
 elif k==2:
     print("Two")
 elif k==3:
